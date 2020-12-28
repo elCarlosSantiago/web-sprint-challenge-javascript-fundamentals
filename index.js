@@ -36,6 +36,7 @@ function summation(num) {
         counter += i;
     }
     return counter;
+
 }
 
 
